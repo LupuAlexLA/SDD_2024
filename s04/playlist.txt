@@ -1,0 +1,21 @@
+5
+241
+Master Of Puppets
+Metallica
+0.421
+621
+Raining Blood
+Slayer
+0.731
+861
+Du Hast
+Rammstein
+0.814
+321
+Mein Herz brennt
+Rammstein
+0.967
+451
+Ich Will
+Rammstein
+0.160
