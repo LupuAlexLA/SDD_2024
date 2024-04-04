@@ -1,0 +1,47 @@
+SEMINAR 1
+
+- Pointeri
+- Transmiterea parametrilor
+
+SEMINAR 2
+
+- Creare structura de la tastatura
+- Afisare structura la consola
+- Vector de structuri
+- Dezalocare
+
+SEMINAR 3 - varianta de fisier care nu se da la examen
+
+- Initializare structura
+- Afisare structura
+- Citire structura din fisier
+- Citire  structuri din fisier
+
+SEMINAR 4 - LS
+
+- Inserare la inceput
+- Inserare la final
+- Parseaza si printeaza lista
+
+
+SEMINAR 5
+
+- Deep copy structura
+- Stergere de la inceput
+
+SEMINAR 6 - LD
+
+- Inserare la inceput
+- Inserare la final
+- Deep copy structura
+- Parsare lista de la inceput la final
+- Parsare lista de la final la inceput
+
+SEMINAR 7 - HT
+
+- HashFunction
+- Inserare lista
+- Inserare hashTable
+- Parsare lista si printare
+- Printare hashtable
+- Cauta in hashtable
