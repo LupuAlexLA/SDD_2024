@@ -1,0 +1,24 @@
+100
+Web Browser
+12.65
+200
+Multiplayer Game
+18.93
+300
+Image Viewer
+17.83
+400
+Music Player
+23.33
+500
+Code Editor
+11.145
+600
+Antivirus
+11.95
+700
+File Explorer
+19.45
+800
+TaskManager
+19.45
